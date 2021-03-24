@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Castle.Core" Version="4.4.1" />
+		<PackageReference Include="Castle.Core.AsyncInterceptor" Version="1.7.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Basket.Caching\Basket.Caching.csproj" />
+		<ProjectReference Include="..\Basket.Data\Basket.Data.csproj" />
+		<ProjectReference Include="..\Basket.IoC\Basket.IoC.csproj" />
+		<ProjectReference Include="..\Basket.Library\Basket.Library.csproj" />
+		<ProjectReference Include="..\Basket.Logging\Basket.Logging.csproj" />
+		<ProjectReference Include="..\Basket.Repository\Basket.Repository.csproj" />
+	</ItemGroup>
+
+</Project>
