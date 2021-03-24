@@ -1,10 +1,10 @@
-# Çiceksepeti Aday Test Uygulaması
+# Sepet Uygulaması
 
 
 ## Uygulamanın Amacı
 
 
-> Uygulama Çiçeksepeti için bir Sepete Ekle servisi oluşturmayı amaçlar.
+> Uygulama bir Sepete Ekle servisi oluşturmayı amaçlar.
 
 ## Uygulamanın İçeriği
 
