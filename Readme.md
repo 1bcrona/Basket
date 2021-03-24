@@ -104,7 +104,7 @@
 
     - #### Dockerfile
         
-        Basket Aday Test uygulamasının derleme, test ve dağıtma tanımlarını barındıran dosyadır. 
+        Sepet uygulamasının derleme, test ve dağıtma tanımlarını barındıran dosyadır. 
 
         - Uygulama klasörleri, çalışma klasörüne kopyalanır.
         - Uygulamada kullanılacak nuget paketleri yüklenir.
